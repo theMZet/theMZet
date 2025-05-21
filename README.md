@@ -1,25 +1,25 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Paweł%20(Mz)&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Twoje Imię" width="100%">
-  <h1>👋 Cześć, jestem Paweł</h1>
-  <p>Programista | Entuzjasta tworzenia pluginów i botów Discord</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Paweł%20(Mz)&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Paweł" width="100%">
+  <h1>👋 Hi, I'm Paweł</h1>
+  <p>Programmer | Discord bot and minecraft plugin creator enthusiast</p>
 </div>
 
 <!-- About Me Section -->
-## 🚀 O mnie
+## 🚀 About me
 
-Cześć! Jestem Paweł (MZ), programistą, który pasjonuje się tworzeniem narzędzi, pluginów i botów dla Discorda. W swoim czasie wolnym pracuję nad prywatnymi projektami, które rozwijają moje umiejętności w Rust, Pythonie oraz Javie.
+Hi! I'm Paweł (MZ), a developer who is passionate about creating tools, plugins, and bots for Discord. In my free time, I work on private projects that stretch my skills in Rust, Python, and Java.
 
-**Co definiuje moją pracę:**  
-- Tworzenie wydajnych rozwiązań w Rust, Pythonie i Javie  
-- Specjalizuję się w pluginach i botach Discord, które wzbogacają interakcje użytkowników  
-- Zawzięty rozwiązywacz problemów i innowator:  
-  - 🚀 Stworzyłem wydajnego bota Discord, który integruje się z różnymi API  
-  - 🛠️ Pracuję nad projektami, które poprawiają UX i zwiększają funkcjonalność  
-  - 📚 Dzielę się moją wiedzą w społeczności open source, aby pomóc innym programistom
+**What is my job:** 
+- Creating accessible solutions in Rust, Python, and Java 
+- Specializing in Discord plugins and bots that enrich user interactions 
+- A driven problem solver and innovator: 
+- 🚀 I created a custom Discord bot that integrates with the API 
+- 🛠️ I work on projects that improve UX and functionality 
+- 📚 Sharing my knowledge in the open source community to help other developers
 
 <!-- Skills Section -->
-## 🛠️ Umiejętności i technologie
+## 🛠️ Skills and technology
 
 <div align="center">
 
@@ -38,7 +38,7 @@ Cześć! Jestem Paweł (MZ), programistą, który pasjonuje się tworzeniem narz
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Dodatki
+### Utils
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-512BD4?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,7 +52,7 @@ Cześć! Jestem Paweł (MZ), programistą, który pasjonuje się tworzeniem narz
 </div>
 
 <!-- GitHub Stats Section -->
-## 📊 Statystyki GitHub
+## 📊 GitHub statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ziomekMinecraft&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="zomekMinecraft Stats" />
@@ -61,7 +61,7 @@ Cześć! Jestem Paweł (MZ), programistą, który pasjonuje się tworzeniem narz
 <br />
 
 <!-- Connect Section -->
-## 🌐 Kontakt
+## 🌐 Contact
 
 <div align="center">
   <a href="https://dc.ziomcraft.com" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>

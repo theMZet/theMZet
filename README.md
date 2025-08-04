@@ -1,81 +1,36 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Paweł%20(Mz)&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Paweł" width="100%">
-  <h1>👋 Hi, I'm Paweł</h1>
-  <p>Programmer | Discord bot and minecraft plugin creator enthusiast</p>
-</div>
+# Hi 👋 My name is Paweł
+<p>
+  I had been coding for about 8 years. My start at programing was and wasn't smooth, becouse I started at young age what helped me about how fast I could learn, but becouse that I'm from Poland I didn't know English what limited me to already limited sources of knolage.<br>
+  <ul>
+    <li>🌍  I'm based in small village in Poland</li>
+    <li>✉️  You can contact me at pawel.k.paszkiet@gmail.com</li>
+    <li>🚀  I'm currently working on CodeHost</li>
+    <li>🧠  I'm learning more about Rust language!</li>
+  </ul>
+</p>
 
-<!-- About Me Section -->
-## 🚀 About me
+### Skills
 
-Hi! I'm Paweł (MZ), a developer who is passionate about creating tools, plugins, and bots for Discord. In my free time, I work on private projects that stretch my skills in Rust, Python, and Java.
+<p align="left">
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+</p>
 
-**What is my job:** 
-- Creating accessible solutions in Rust, Python, and Java 
-- Specializing in Discord plugins and bots that enrich user interactions 
-- A driven problem solver and innovator: 
-- 🚀 I created a custom Discord bot that integrates with the API 
-- 🛠️ I work on projects that improve UX and functionality 
-- 📚 Sharing my knowledge in the open source community to help other developers
+### Socials
 
-<!-- Skills Section -->
-## 🛠️ Skills and technology
+<p align="left"> <a href="https://www.github.com/theMZet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/paweł-paszkiet-92479426b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-<div align="center">
+### Badges
 
-### Frontend
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<b>My GitHub Stats</b>
 
-### Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<a href="http://www.github.com/theMZet"><img src="https://github-readme-stats.vercel.app/api?username=theMZet&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="theMZet's GitHub stats" /></a>
 
-### CLI
-![Rust](https://img.shields.io/badge/-Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+<a href="http://www.github.com/theMZet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theMZet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Utils
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-512BD4?style=for-the-badge&logo=docker&logoColor=white)
-![Tor](https://img.shields.io/badge/-Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
+### Support Me
 
-### IDE
-![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS code](https://img.shields.io/badge/-VS%20Code-219FE8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Neo vim](https://img.shields.io/badge/-Neo%20vim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+<ul style="list-style-type: none; margin: 0;">
 
-</div>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/_mz_"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziomekMinecraft&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="zomekMinecraft Stats" />
-</div>
-
-<br />
-
-<!-- Connect Section -->
-## 🌐 Contact
-
-<div align="center">
-  <a href="https://dc.ziomcraft.com" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <!-- Dodaj inne linki, jeśli masz -->
-</div>
-
-<br />
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://img.shields.io/github/stars/ziomekMinecraft" alt="Licznik wyświetleń profilu" />
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
+</ul>

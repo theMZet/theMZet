@@ -1,11 +1,11 @@
 # Hi 👋 My name is Paweł
 <p>
-  I had been coding for about 8 years. My start at programing was and wasn't smooth, becouse I started at young age what helped me about how fast I could learn, but becouse that I'm from Poland I didn't know English what limited me to already limited sources of knolage.<br>
+  I've been coding for about 8 years. My start at programming was and wasn't smooth, because I started at a young age which helped me with how fast I could learn, but because I'm from Poland I didn't know English which limited me to already limited sources of knowledge.<br>
   <ul>
-    <li>🌍  I'm based in small village in Poland</li>
-    <li>✉️  You can contact me at pawel.k.paszkiet@gmail.com</li>
-    <li>🚀  I'm currently working on CodeHost</li>
-    <li>🧠  I'm learning more about Rust language!</li>
+    <li>🌍  I'm based in a small village in Poland.</li>
+    <li>✉️  You can contact me at <a href="mailto:pawel.k.paszkiet@gmail.com">pawel.k.paszkiet@gmail.com</a>.</li>
+    <li>🚀  I'm currently working on CodeHost.</li>
+    <li>🧠  I'm learning more about the Rust programming language!</li>
   </ul>
 </p>
 
@@ -15,9 +15,9 @@
   <li>
     <h4>CodeHost</h4>    
     <p>
-      Hosting that primary focus on developers. Easy to use and expand thanks for the API. <br />
-      In it's default form hosting don't have any GUI, only CLI tool and bare API.<br/ >
-      You want to see me doing it? Check <a href="https://www.twitch.tv/themzet">my twitch</a>!
+      Hosting that primarily focuses on developers. Easy to use and expand thanks to the API.
+In its default form, the hosting doesn't have any GUI — only a CLI tool and a bare API.
+Want to see me working on it? Check out <a href="https://www.twitch.tv/themzet">my Twitch</a>!
       <br />
       <h5>Tech Stack</h5>
       <p align="left">
